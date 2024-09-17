@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": "34e3",
+      "name": "Meu projeto",
+      "budget": "12000",
+      "category": {
+        "id": "5",
+        "name": "Front-end"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d701",
+      "name": "projeto 2",
+      "budget": "1500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    },
+    {
+      "id": "5",
+      "name": "Front-end"
+    },
+    {
+      "id": "6",
+      "name": "Back-end"
+    }
+  ]
+}
